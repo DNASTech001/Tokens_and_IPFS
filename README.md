@@ -10,6 +10,6 @@ Metadata structure:
   }
 ]
 
-contract's etherscan address for ERC20:
-contract's etherscan address for ERC721:
+contract's etherscan address for ERC20: 
+contract's etherscan address for ERC721: [0x5aec71cc0c0f17c84426d1dbcd6d0af7bdaadb20] 
 Link to IPFS address: https://ipfs.io/ipfs/QmSDwXfYgKUxTWGpFNsKFws98H5YnHZPei95GWGKGh2K4D
